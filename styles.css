@@ -1,0 +1,20 @@
+h3 {
+    background-color: rgb(74, 209, 81);
+}
+img {
+    height: auto;
+    width: 400px;
+}
+.title {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+}
+.links {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.allrecipes {
+    color: blue;
+}
